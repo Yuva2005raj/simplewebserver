@@ -15,6 +15,8 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
+
+
 ```
 from http.server import HTTPServer,BaseHTTPRequestHandler
 
@@ -47,7 +49,6 @@ class HelloHandler(BaseHTTPRequestHandler):
 server_address=('',80)
 httpd = HTTPServer(server_address, HelloHandler)
 httpd.serve_forever()
-
 ```
  
 
@@ -61,8 +62,10 @@ httpd.serve_forever()
      3. Node js
      4. Larvarel
      5. Angular JS
+     
+     
  
-     ![ex 1](https://user-images.githubusercontent.com/118343998/215250439-4da660aa-9220-4957-899c-3d753da7a948.png)
+  ![ex 1](https://user-images.githubusercontent.com/118343998/215250439-4da660aa-9220-4957-899c-3d753da7a948.png)
 
      
    
