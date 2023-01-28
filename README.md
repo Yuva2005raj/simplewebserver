@@ -62,11 +62,8 @@ httpd.serve_forever()
      4. Larvarel
      5. Angular JS
  
- 
- 
- 
- ![GitHub Logo](file://serveroutput.png)
-     
+     ![ex 1](https://user-images.githubusercontent.com/118343998/215250439-4da660aa-9220-4957-899c-3d753da7a948.png)
+
      
    
 
